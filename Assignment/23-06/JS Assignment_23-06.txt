@@ -1,0 +1,13 @@
+Assignment java script
+1>Write a JS function to find max of 3 numbers
+2>Write a JS function to find factorial of a given number
+3>Write a JS function to check whether number is palindrome or not
+4>Write a JS function to find digit sum of a given number
+5>Write a JS function to find max digit from a given number
+6>Wite a JS function to find percentage,total ,grade from  5 subject mark which is out of 80
+7>Write a JS function to find HRA,PF,DA ,NetSal from basicsal  as per given below
+HRA=15% of basicsal
+PF=7% of basicsal
+DA=20% of basicsal
+NetSal=basicsal+HRA+DA-PF
+8>Write a JS function to print a table of given number
